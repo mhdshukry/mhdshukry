@@ -16,7 +16,6 @@
 <a href="https://twitter.com/mhmdshukry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmdshukry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-shukry-651469265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-shukry-651469265/" height="30" width="40" /></a>
 <a href="https://fb.com/people/shukry-mohammed/100074264811433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/people/shukry-mohammed/100074264811433/" height="30" width="40" /></a>
-<a href="http://www.instagram.com/skr_ath7?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/skr_ath7?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
