@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdshukry&label=Profile%20views&color=0e75b6&style=flat" alt="mhdshukry" /> </p>
 
-- 🌱 I’m currently learning **Java, React**
+- 🌱 I’m currently learning **Dart, flutter, React**
 
 - 📫 How to reach me **mhdshukry110@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny**
+- ⚡ Fun fact **The only way to achieve the impossible is to believe it is possible.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
