@@ -54,7 +54,9 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" alt="Firebase"/>
 </p>
 
 #### 🔹 DevOps, Cloud & Version Control
@@ -78,6 +80,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌐 Responsive web applications using **React**
 - 📱 Cross-platform mobile apps with **Flutter**
 - 🔧 Backend APIs using **Node.js**
+- 🔥 Authentication & backend services with **Firebase**
 - 📊 Dashboards and reports using **Power BI**
 - ☁️ Learning **Microsoft Azure** for cloud deployment
 
