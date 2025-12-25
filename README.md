@@ -57,7 +57,9 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
 
   <!-- Power BI (FIXED) -->
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+     width="40" alt="Power BI"/>
+
 </p>
 
 #### 🔹 DevOps, Cloud & Version Control
