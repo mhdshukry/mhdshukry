@@ -54,19 +54,13 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-
-  <!-- Power BI (FIXED) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
-
-
 </p>
 
 #### 🔹 DevOps, Cloud & Version Control
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 
-  <!-- GitHub (FIXED for dark & light mode) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"/>
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"/>
