@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shukry</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Sukri</h1>
 <h3 align="center">
 B.ICT & B.IT Undergraduate | Front-End Developer | Aspiring Full-Stack Developer
 </h3>
