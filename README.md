@@ -156,7 +156,6 @@ alt="Mohamed Sukri profile views">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker">
 </p>
-
 ---
 
 ## 🚀 What I’m Currently Working On
