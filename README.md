@@ -168,65 +168,141 @@ B.ICT (Hons.) Undergraduate | Full-Stack Developer | Software Engineer
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
+
 <h3 align="center">💰 Finance365</h3>
-<p align="center">A comprehensive microfinance and financial management solution for managing customers, loans, repayments, transactions and financial reports.</p>
+
 <p align="center">
-<a href="https://demo.finance365.lk/">
-<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Finance365 Live Demo">
-</a>
-<a href="https://github.com/mhdshukry/Microfinance365">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Finance365 Repository">
-</a>
+A modern Microfinance & Financial Management System designed to manage loans, repayments, customers, transactions, and financial reports.
 </p>
+
 <p align="center">
-<a href="https://164.68.120.42/HRM365/login.php">
-<img src="https://img.shields.io/badge/Microfinance-Management-success?style=flat-square" alt="Microfinance Management">
-<img src="https://img.shields.io/badge/Financial-Reporting-blue?style=flat-square" alt="Financial Reporting">
+
+<a href="https://demo.finance365.lk/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/mhdshukry/Microfinance365" target="_blank">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Finance365-success?style=flat-square"/>
+
+</p>
+
 </td>
+
 <td width="50%" valign="top">
-<h3 align="center">👥 HRM365</h3>
-<p align="center">A Human Resource Management system for managing employees, attendance, leave, payroll and organisational operations.</p>
+
+<h3 align="center">👨‍💼 HRM365</h3>
+
 <p align="center">
-<a href="https://github.com/mhdshukry/HRM365_release">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="HRM365 Repository">
+A complete Human Resource Management System including employee management, attendance, leave, payroll, departments, reports and more.
+</p>
+
+<p align="center">
+
+<a href="https://164.68.120.42/HRM365/login.php" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge" />
 </a>
+
+<a href="https://github.com/mhdshukry/HRM365_release" target="_blank">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/Human_Resources-Management-orange?style=flat-square" alt="Human Resource Management">
+
+<img src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/HRM365-success?style=flat-square"/>
+
 </p>
+
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
+
 <h3 align="center">🚚 ALR Distributors</h3>
-<p align="center">A drug supply and distribution management system for managing products, suppliers, customers, stock, orders and distribution workflows.</p>
+
 <p align="center">
-<a href="https://github.com/mhdshukry/drug-supply-system">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ALR Distributors Repository">
+A cloud-based distribution management system for stock management, order processing, customers, suppliers and sales operations.
+</p>
+
+<p align="center">
+
+<a href="https://alr-distributors.cloud/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge" />
 </a>
+
+<a href="https://github.com/mhdshukry/drug-supply-system" target="_blank">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Supply_Chain-Management-green?style=flat-square" alt="Supply Chain Management">
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Distribution-success?style=flat-square"/>
+
 </p>
+
 </td>
+
 <td width="50%" valign="top">
-<h3 align="center">🌐 Developer Portfolio</h3>
-<p align="center">My personal portfolio showcasing my technical skills, software projects and development experience.</p>
+
+<h3 align="center">🌐 My Portfolio</h3>
+
 <p align="center">
-<a href="https://sukry-portfolio-qoah.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Mohamed Sukri Portfolio">
+My personal developer portfolio showcasing projects, technical skills, work experience and achievements.
+</p>
+
+<p align="center">
+
+<a href="https://sukry-portfolio-qoah.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+<a href="https://github.com/mhdshukry" target="_blank">
+<img src="https://img.shields.io/badge/👨‍💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Personal-Portfolio-blueviolet?style=flat-square" alt="Personal Portfolio">
+
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel"/>
+
 </p>
+
 </td>
+
 </tr>
+
 </table>
 
 ---
