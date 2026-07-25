@@ -62,7 +62,7 @@ alt="Mohamed Sukri profile views">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" title="Dart">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go" title="Go">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="52" height="42" alt="Go" title="Go">
 </p>
 
 ### 🔹 Front-End Development and UI/UX
