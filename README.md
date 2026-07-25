@@ -265,31 +265,29 @@ alt="Mohamed Sukri GitHub streak">
 
 ---
 
-## 💻 Most Used Languages
+## 💻 Technologies I Work With
 
 <p align="center">
-<a href="https://github.com/mhdshukry">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdshukry&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-alt="Mohamed Sukri most used languages">
-</a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 > The language card displays languages detected in public repositories and does not represent overall skill level.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<a href="https://github.com/mhdshukry">
-<img
-src="https://github-profile-trophy.vercel.app/?username=mhdshukry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
-alt="Mohamed Sukri GitHub trophies">
-</a>
-</p>
-
----
 
 ## 📈 GitHub Activity Graph
 
