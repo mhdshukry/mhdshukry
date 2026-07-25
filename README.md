@@ -240,41 +240,6 @@ alt="Mohamed Sukri profile views">
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <a href="https://github.com/mhdshukry?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Public_Repositories-View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Mohamed Sukri repositories"
-    >
-  </a>
-
-  <a href="https://github.com/mhdshukry?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/mhdshukry?label=Followers&style=for-the-badge&logo=github"
-      alt="Mohamed Sukri GitHub followers"
-    >
-  </a>
-
-  <a href="https://github.com/mhdshukry">
-    <img
-      src="https://komarev.com/ghpvc/?username=mhdshukry&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-      alt="Mohamed Sukri profile views"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mhdshukry?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore_My_Work-GitHub_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore Mohamed Sukri GitHub repositories"
-    >
-  </a>
-</p>
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
