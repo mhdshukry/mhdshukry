@@ -46,21 +46,21 @@ alt="Mohamed Sukri profile views">
 ### 🔹 Programming Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" title="C">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" title="C">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="42" height="42" alt="Java" title="Java">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP" title="PHP">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" title="Dart">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" title="Dart">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="52" height="42" alt="Go" title="Go">
 </p>
@@ -68,81 +68,93 @@ alt="Mohamed Sukri profile views">
 ### 🔹 Front-End Development and UI/UX
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5" title="HTML5">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3" title="CSS3">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" title="React">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React" title="React">
 &nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="45" height="45" alt="Next.js" title="Next.js">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+<source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000">
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="42" height="42" alt="Next.js" title="Next.js">
+</picture>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" title="Flutter">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" title="Flutter">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" title="Bootstrap">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma">
 </p>
 
 ### 🔹 Back-End Development
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="52" height="42" alt="Node.js" title="Node.js">
 &nbsp;
-<img src="https://cdn.simpleicons.org/express/000000" width="45" height="45" alt="Express.js" title="Express.js">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
+<source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
+<img src="https://cdn.simpleicons.org/express/000000" width="42" height="42" alt="Express.js" title="Express.js">
+</picture>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="45" alt="NPM" title="NPM">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="52" height="42" alt="NPM" title="NPM">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP" title="PHP">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="52" height="42" alt="PHP" title="PHP">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel" title="Laravel">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" title="Laravel">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" title="Firebase">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" title="Firebase">
 </p>
 
 ### 🔹 Databases and Business Intelligence
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="52" height="42" alt="MySQL" title="MySQL">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" title="SQLite">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite" title="SQLite">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" title="MongoDB">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="52" height="42" alt="MongoDB" title="MongoDB">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Microsoft SQL Server" title="Microsoft SQL Server">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="Microsoft SQL Server" title="Microsoft SQL Server">
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI" title="Power BI">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42" alt="Power BI" title="Power BI">
 </p>
 
-### 🔹 Cloud, DevOps and Version Control
+### 🔹 DevOps, Cloud and Version Control
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">
 &nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub" title="GitHub">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+<source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+<img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" title="GitHub">
+</picture>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="GitLab" title="GitLab">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="42" height="42" alt="GitLab" title="GitLab">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" alt="Microsoft Azure" title="Microsoft Azure">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS" title="AWS">
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="42" alt="AWS" title="AWS">
 </p>
 
 ### 🔹 Development and Testing Tools
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code" title="Visual Studio Code">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="Visual Studio Code" title="Visual Studio Code">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" title="Postman">
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker">
 </p>
 
 ---
